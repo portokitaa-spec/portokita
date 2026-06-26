@@ -73,35 +73,35 @@ export default {
           description:
           "Website profesional untuk memperkenalkan bisnis dan membangun kredibilitas di mata pelanggan.",
           image:
-          "/images/slide1.webp",
+          "images/slide1.webp",
         },
         {
           title: "Portokita.id",
           description:
             "Kami membantu umkm, personal brand, dan perusahaan memiliki website modern dan siap meningkatkan kredibilitas bisnis di era digital.",
           image:
-            "/images/hero.webp",
+            "images/hero.webp",
         },
         {
           title: "Website Portofolio",
           description:
             "Website portfolio untuk freelancer, kreator, dan profesional agar tampil lebih meyakinkan.",
           image:
-            "/images/slide3.webp",
+            "images/slide3.webp",
         },
         {
           title: "Website UMKM",
           description:
             "Membantu UMKM memiliki website profesional untuk memperluas jangkauan pemasaran digital.",
           image:
-            "/public/images/slide4.webp",
+            "images/slide4.webp",
         },
         {
           title: "Website Redesign",
           description:
             "Mengubah tampilan website lama menjadi lebih modern, responsif, dan profesional.",
           image:
-            "/public/images/slide5.webp",
+            "images/slide5.webp",
         },
       ],
     };
