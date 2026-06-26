@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [
     vue(),
     tailwindcss(),
-    base
   ],
+  base: '/portokita/'
 })
